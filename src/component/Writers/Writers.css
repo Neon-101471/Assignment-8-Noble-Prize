@@ -1,0 +1,28 @@
+.card{
+    border: none;
+}
+.social-icon{
+    background-color: floralwhite;
+}
+.social-icon i{
+    font-size: 30px;
+    cursor: pointer;
+}
+.writer-profile{
+    text-align: center;
+    background-color: floralwhite;
+}
+.writer-profile img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.tw{
+color: #1D9BF0;
+}
+.ln{
+color: #0A66C2;
+}
+.fb{
+    color: #1877F2;
+}

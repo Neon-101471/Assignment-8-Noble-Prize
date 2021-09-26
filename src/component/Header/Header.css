@@ -1,0 +1,13 @@
+.header{
+    background-color: antiquewhite;
+    border-radius: 3px;
+    margin-top: 40px;
+    padding: 20px;
+    text-align: center;
+}
+.header h1{
+    color: chocolate;
+}
+.header h2{
+    color: green;
+}
